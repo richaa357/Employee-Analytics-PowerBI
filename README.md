@@ -47,13 +47,13 @@ An interactive Employee Analytics Dashboard built using **Microsoft Power BI, Ex
 
 ## 📂 Files
 
-* `Employee_Analytics_Dashboard.pbit` — Power BI dashboard template
+* `employee_anaytics_powerBi_dashboard.png` — Power BI dashboard template
 * `Employee_Analytics_Cleaned.xlsx` — Dataset used for analysis
-* `dashboard.png` — Dashboard preview
+
 
 ## 📌 Dashboard Preview
 
-![Employee Analytics Dashboard](dashboard.png)
+![Employee Analytics Dashboard](employee_anaytics_powerBi_dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
